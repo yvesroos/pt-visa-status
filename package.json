@@ -1,0 +1,22 @@
+{
+  "name": "pt-checker",
+  "version": "1.0.0",
+  "description": "Application for check your Portugal visa status",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "visa",
+    "portugal",
+    "puppeteer",
+    "nodejs"
+  ],
+  "author": "Yves Roos",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "puppeteer": "^1.14.0"
+  }
+}
